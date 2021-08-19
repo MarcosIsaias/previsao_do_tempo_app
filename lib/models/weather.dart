@@ -1,7 +1,7 @@
 class Weather {
   final String dayOfWeek;
   final String icon;
-  final String temperature;
+  final int temperature;
   
   Weather({
     required this.dayOfWeek,
